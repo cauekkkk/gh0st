@@ -1,2 +1,3 @@
 # gh0st
-ghost, but adapted for Raspbian
+  ghost for kali linux : https://github.com/entynetproject/ghost
+
